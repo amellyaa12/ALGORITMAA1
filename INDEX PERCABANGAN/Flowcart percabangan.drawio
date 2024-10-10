@@ -1,0 +1,72 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.17" pages="2">
+  <diagram name="Page-1" id="4QNOn6CkxbTF2AN9wqs3">
+    <mxGraphModel dx="978" dy="511" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="0A1rUUPqjGxZcBe2ceWW-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0A1rUUPqjGxZcBe2ceWW-1" target="0A1rUUPqjGxZcBe2ceWW-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0A1rUUPqjGxZcBe2ceWW-1" value="&lt;b&gt;Start&lt;/b&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="260" y="80" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="0A1rUUPqjGxZcBe2ceWW-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0A1rUUPqjGxZcBe2ceWW-2" target="0A1rUUPqjGxZcBe2ceWW-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0A1rUUPqjGxZcBe2ceWW-2" value="&lt;div style=&quot;&quot;&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;Deklarasi panjang&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;b&gt;alas(a) dan tinggi&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;b&gt;(t) jajargencang&lt;/b&gt;&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;align=center;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="250" y="190" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="0A1rUUPqjGxZcBe2ceWW-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0A1rUUPqjGxZcBe2ceWW-6" target="0A1rUUPqjGxZcBe2ceWW-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0A1rUUPqjGxZcBe2ceWW-6" value="&lt;b&gt;Luas = alas * tinggi&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="260" y="320" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="0A1rUUPqjGxZcBe2ceWW-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0A1rUUPqjGxZcBe2ceWW-8" target="0A1rUUPqjGxZcBe2ceWW-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0A1rUUPqjGxZcBe2ceWW-8" value="&lt;b&gt;Output hasil&lt;/b&gt;&lt;div&gt;&lt;b&gt;perhitungan luas&lt;/b&gt;&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="260" y="440" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="0A1rUUPqjGxZcBe2ceWW-10" value="&lt;b&gt;Finish&lt;/b&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="270" y="560" width="130" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="7GiU9CRXzqqppQJUzwiS" name="Page-2">
+    <mxGraphModel dx="1467" dy="767" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="SRgb8zpozBWnYtaRqu8h-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SRgb8zpozBWnYtaRqu8h-11" target="SRgb8zpozBWnYtaRqu8h-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SRgb8zpozBWnYtaRqu8h-11" value="&lt;h4&gt;&lt;b&gt;Start&lt;/b&gt;&lt;/h4&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="320" y="40" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="SRgb8zpozBWnYtaRqu8h-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SRgb8zpozBWnYtaRqu8h-12" target="SRgb8zpozBWnYtaRqu8h-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SRgb8zpozBWnYtaRqu8h-12" value="&lt;h4&gt;&lt;b&gt;Apakah hari ini&lt;br&gt;&lt;/b&gt;&lt;b&gt;sabtu dan minggu?&lt;/b&gt;&lt;/h4&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="320" y="170" width="160" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="SRgb8zpozBWnYtaRqu8h-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SRgb8zpozBWnYtaRqu8h-15" target="SRgb8zpozBWnYtaRqu8h-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SRgb8zpozBWnYtaRqu8h-15" value="&lt;h4&gt;&lt;b&gt;Apakah hari ini adalah hari&amp;nbsp;&lt;br&gt;&lt;/b&gt;&lt;b&gt;libur nasional?&lt;/b&gt;&lt;/h4&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
+          <mxGeometry x="320" y="320" width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="SRgb8zpozBWnYtaRqu8h-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SRgb8zpozBWnYtaRqu8h-18" target="SRgb8zpozBWnYtaRqu8h-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SRgb8zpozBWnYtaRqu8h-18" value="&lt;h4&gt;&lt;b&gt;Hari kerja&lt;/b&gt;&lt;/h4&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="320" y="480" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="SRgb8zpozBWnYtaRqu8h-19" value="&lt;h4&gt;&lt;b&gt;Finish&lt;/b&gt;&lt;/h4&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="320" y="620" width="160" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
