@@ -11,6 +11,6 @@ echo "<br>tinggi". $tinggi;
 $luas=$alas*$tinggi;
 //Tampilkan hasil pekalian
 echo "<br>hasil luas jajargenjang adalah=". $luas;
-echo "<p><strong>By Amellya</strong>";
+echo "<p><i><strong>By Amellya</strong>";
 //Selesai
 
