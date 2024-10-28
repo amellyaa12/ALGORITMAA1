@@ -1,24 +1,37 @@
 <!DOCTYPE html>
-<html>
-<body>
-    <h2>MENGULANG HARI KERJA</h2>
-<form method="POST" action="output perulangan hari kerja.php">
-    Cari: <input type="text" name="query"><br>
-  <br><input type="submit" value="Submit">
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login Pengguna</title>
+    </head>
+
+<div class="login-container">
+
+<h2>Identifikasi Pengguna(Login)</h2>
+<form method="GET" action="input perulangan.php">
+
+<label for="Input Nama">Input Nama:</label>
+  <input type="text" id="Input Nama" name="Input Nama" required><br><br>
+  
+  <label for="Input Email">Input Email:</label>
+  <input type="Input Email" id="Input Email" name="Input Email" required><br><br>
+  
+  <input type="submit" value="Login">
 </form>
+
 </body>
 </html>
 
-<p><strong>By Amellya</strong>
+
 <?php
- if ($_SERVER["REQUEST_METHOD"] == "GET" && !empty($_GET)) {
-  echo "<h2>Data yang Dimasukkan:</h2>";
-  for ($i = 1; $i <= $jumlah_input; $i++) { 
-      $input_name = 'input' . $i;
-      if (isset($_GET[$input_name])) {
-          echo "Input $i: " . htmlspecialchars($_GET[$input_name]) . "<br>";
-      }
-  }
+if ($_SERVER["REQUEST_METHOD"] == "GET") {
+// Simulasi data pengguna yang terdaftar di sistem (untuk contoh ini hardcoded)
+$users = [
+    'user1' => 'Amellya',    
+    'user2' => 'lyaaamel4@gmail.com',    
+];
 
 }
+
 ?>
